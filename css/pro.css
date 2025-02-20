@@ -1,0 +1,20 @@
+.photo{
+    width: 100px;
+   
+}
+.naaav{
+    
+    background-color: rgb(231, 245, 240);
+}
+.loca{
+    display: flex;
+    margin-top: 20px;
+}
+.carddd{
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+    
+    
